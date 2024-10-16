@@ -31,7 +31,7 @@ I started and finished this project in June 2023.
 
 ## Links
 
-[Live Demo](https://bn7631-scrimba-scrimba-quizzical.pages.dev)
+[Live Demo](https://bn7631-scrimba-quizzical.pages.dev)
 
 ## Screenshots
 
